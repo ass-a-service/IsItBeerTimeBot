@@ -1,2 +1,2 @@
 # IsItBeerTimeBot
-The r/IsItBeerTime bot
+The [r/IsItBeerTime](http://reddit.com/r/isitbeertime) bot.
